@@ -1,6 +1,0 @@
-Sub country()
-Dim i As Integer
-For i = 2 To 139
-If i Mod 2 <> 0 Then Cells(i, 1).Value = Cells(i - 1, 1).Value
-Next
-End Sub
