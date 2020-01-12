@@ -12,9 +12,12 @@ The price of contracting a drilling rig is highly affected by the rig utilizatio
 2. Utilize machine learning algorithm to establish a model to predict global off-shore rig utilization rate.
 3. Validate the model by comparing prediction vs actual.
 ## Results
-1. Shap
-2. Xgboost
-3. Lstm
+1. Feature Importance (SHAP Values)
+![shap](han/HY_Model/XGB/SHAP_selected_features.png)
+2. Xgboost Model
+![XGB](han/HY_Tableau/xgb.png)
+3. Long Short-term Memory (LSTM) Model
+![LSTM](han/HY_Tableau/LSTM.png)
 
 ## Conclusion
 1. The most influential factor is world oil consumption followed by active rig count and natural gas price.
