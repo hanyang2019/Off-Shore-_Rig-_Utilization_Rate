@@ -11,6 +11,9 @@ The price of contracting a drilling rig is highly affected by the rig utilizatio
 1. Identify the potential factors impacting global off-shore rig utilization rate
 2. Utilize machine learning algorithm to establish a model to predict global off-shore rig utilization rate.
 3. Validate the model by comparing prediction vs actual.
+## Tools
+* Python
+* Tableau
 ## Results
 1. Feature Importance (SHAP Values)
 ![shap](han/HY_Model/XGB/SHAP_selected_features.png)
