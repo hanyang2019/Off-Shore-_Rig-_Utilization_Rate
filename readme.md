@@ -26,5 +26,5 @@ The price of contracting a drilling rig is highly affected by the rig utilizatio
 1. The most influential factor is world oil consumption followed by active rig count and natural gas price.
 2. Although both Xgboost and LSTM models did a good job on predicting, LSTM model is preferred to solve the problem, since it could predict for the next month.
 ## Tableau Public Website
-https://public.tableau.com/profile/john.hawkins8622#!/vizhome/Project_3_15744697634780/OffshoreUtilization?publish=yes
+https://tabsoft.co/366KwAm
 
